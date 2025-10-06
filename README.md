@@ -2,7 +2,7 @@
 ## Date:30/9/25
 
 ## AIM:
- To design a website to calculate the body mass webserver
+ To design a website to calculate the body mass index
 
 
 ## FORMULA:
